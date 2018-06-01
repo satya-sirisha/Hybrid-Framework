@@ -1,0 +1,432 @@
+2017-11-15 15:09:47,775 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:47,775 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:47,775 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 15:09:47,775 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:47,775 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:50,633 INFO  [Logfile] Browser name correct 
+2017-11-15 15:09:53,928 INFO  [Logfile] website is correct 
+2017-11-15 15:09:54,389 INFO  [Logfile] Mouse hovering without click is not working at elementxpath://*[@id='ctl00_topMegaMenu_deskTopMenu']/div/ul/li[1]/a 
+2017-11-15 15:09:54,714 INFO  [Logfile] Mouse hovering with click is not working at elementxpath://*[@id='ctl00_topMegaMenu_deskTopMenu']/div/ul/li[1]/div/ul/li/ul/li[1]/a 
+2017-11-15 15:09:55,002 INFO  [Logfile] unAble to fetch the valuexpath://*[@id='ctl00_Body_becomeMeberTypeContainer']/div/div[1]/div/div[2]/div[2]/strong 
+2017-11-15 15:09:55,373 INFO  [Logfile] clickfunction is not working at the elemantName:ctl00$Body$btnJoinAsIndividual 
+2017-11-15 15:09:55,373 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:55,373 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:55,373 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:55,540 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:55,540 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:55,540 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 15:09:55,540 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:55,540 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:55,865 INFO  [Logfile] clickfunction is not working at the elemantxpath://*[@id='ctl00_body_ancCreateAccount'] 
+2017-11-15 15:09:56,128 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$rgUserName 
+2017-11-15 15:09:56,438 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$Email 
+2017-11-15 15:09:56,758 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$rgPassword 
+2017-11-15 15:09:57,069 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$ConfirmPassword 
+2017-11-15 15:09:57,375 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPFirstName 
+2017-11-15 15:09:57,703 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPLastName 
+2017-11-15 15:09:57,978 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPCompany 
+2017-11-15 15:09:58,272 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPStreet111111111 
+2017-11-15 15:09:58,580 INFO  [Logfile] textbox function is not working at elementid:ctl00_body_tbxNPCity 
+2017-11-15 15:09:58,901 INFO  [Logfile] Not able to select the element in dropdownsName:ctl00$body$ddlNPCountry 
+2017-11-15 15:09:59,192 INFO  [Logfile] Not able to select the element in dropdownsid:ctl00_body_ddlNPRegion 
+2017-11-15 15:09:59,454 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$txtNPPhone 
+2017-11-15 15:09:59,823 INFO  [Logfile] textbox function is not working at elementid:ctl00_body_tbxNPZip 
+2017-11-15 15:09:59,827 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:59,827 INFO  [Logfile] -------------------------------------- 
+2017-11-15 15:09:59,827 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:36:53,193 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:36:53,197 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:36:53,197 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 16:36:53,197 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:36:53,197 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:36:56,073 INFO  [Logfile] Browser name correct 
+2017-11-15 16:36:59,367 INFO  [Logfile] website is correct 
+2017-11-15 16:36:59,788 INFO  [Logfile] Mouse hovering without click is not working at elementxpath://*[@id='ctl00_topMegaMenu_deskTopMenu']/div/ul/li[1]/a 
+2017-11-15 16:37:00,104 INFO  [Logfile] Mouse hovering with click is not working at elementxpath://*[@id='ctl00_topMegaMenu_deskTopMenu']/div/ul/li[1]/div/ul/li/ul/li[1]/a 
+2017-11-15 16:37:00,400 INFO  [Logfile] unAble to fetch the valuexpath://*[@id='ctl00_Body_becomeMeberTypeContainer']/div/div[1]/div/div[2]/div[2]/strong 
+2017-11-15 16:37:00,703 INFO  [Logfile] clickfunction is not working at the elemantName:ctl00$Body$btnJoinAsIndividual 
+2017-11-15 16:37:00,703 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:00,703 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:00,703 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:00,847 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:00,847 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:00,847 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 16:37:00,847 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:00,847 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:01,124 INFO  [Logfile] clickfunction is not working at the elemantxpath://*[@id='ctl00_body_ancCreateAccount'] 
+2017-11-15 16:37:01,448 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$rgUserName 
+2017-11-15 16:37:01,763 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$Email 
+2017-11-15 16:37:02,103 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$rgPassword 
+2017-11-15 16:37:02,375 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$ConfirmPassword 
+2017-11-15 16:37:02,651 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPFirstName 
+2017-11-15 16:37:02,951 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPLastName 
+2017-11-15 16:37:03,267 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPCompany 
+2017-11-15 16:37:03,569 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPStreet111111111 
+2017-11-15 16:37:03,872 INFO  [Logfile] textbox function is not working at elementid:ctl00_body_tbxNPCity 
+2017-11-15 16:37:04,193 INFO  [Logfile] Not able to select the element in dropdownsName:ctl00$body$ddlNPCountry 
+2017-11-15 16:37:04,473 INFO  [Logfile] Not able to select the element in dropdownsid:ctl00_body_ddlNPRegion 
+2017-11-15 16:37:04,805 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$txtNPPhone 
+2017-11-15 16:37:05,137 INFO  [Logfile] textbox function is not working at elementid:ctl00_body_tbxNPZip 
+2017-11-15 16:37:05,137 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:05,137 INFO  [Logfile] -------------------------------------- 
+2017-11-15 16:37:05,137 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:34,927 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:34,927 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:34,927 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 17:52:34,927 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:34,927 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:38,090 INFO  [Logfile] Browser name correct 
+2017-11-15 17:52:41,176 INFO  [Logfile] website is correct 
+2017-11-15 17:52:41,597 INFO  [Logfile] Mouse hovering without click is not working at elementxpath://*[@id='ctl00_topMegaMenu_deskTopMenu']/div/ul/li[1]/a 
+2017-11-15 17:52:41,860 INFO  [Logfile] Mouse hovering with click is not working at elementxpath://*[@id='ctl00_topMegaMenu_deskTopMenu']/div/ul/li[1]/div/ul/li/ul/li[1]/a 
+2017-11-15 17:52:42,180 INFO  [Logfile] unAble to fetch the valuexpath://*[@id='ctl00_Body_becomeMeberTypeContainer']/div/div[1]/div/div[2]/div[2]/strong 
+2017-11-15 17:52:42,577 INFO  [Logfile] clickfunction is not working at the elemantName:ctl00$Body$btnJoinAsIndividual 
+2017-11-15 17:52:42,577 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:42,577 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:42,577 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:42,875 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:42,875 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:42,875 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 17:52:42,875 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:42,875 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:43,200 INFO  [Logfile] clickfunction is not working at the elemantxpath://*[@id='ctl00_body_ancCreateAccount'] 
+2017-11-15 17:52:43,577 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$rgUserName 
+2017-11-15 17:52:43,852 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$Email 
+2017-11-15 17:52:44,186 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$rgPassword 
+2017-11-15 17:52:44,465 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$ConfirmPassword 
+2017-11-15 17:52:44,762 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPFirstName 
+2017-11-15 17:52:45,050 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPLastName 
+2017-11-15 17:52:45,356 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPCompany 
+2017-11-15 17:52:45,673 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPStreet111111111 
+2017-11-15 17:52:45,968 INFO  [Logfile] textbox function is not working at elementid:ctl00_body_tbxNPCity 
+2017-11-15 17:52:46,319 INFO  [Logfile] Not able to select the element in dropdownsName:ctl00$body$ddlNPCountry 
+2017-11-15 17:52:46,625 INFO  [Logfile] Not able to select the element in dropdownsid:ctl00_body_ddlNPRegion 
+2017-11-15 17:52:46,897 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$txtNPPhone 
+2017-11-15 17:52:47,226 INFO  [Logfile] textbox function is not working at elementid:ctl00_body_tbxNPZip 
+2017-11-15 17:52:47,226 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:47,226 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:52:47,226 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:43,520 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:43,521 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:43,521 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 17:56:43,521 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:43,521 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:46,630 INFO  [Logfile] Browser name correct 
+2017-11-15 17:56:49,667 INFO  [Logfile] website is correct 
+2017-11-15 17:56:50,074 INFO  [Logfile] Mouse hovering without click is not working at elementxpath://*[@id='ctl00_topMegaMenu_deskTopMenu']/div/ul/li[1]/a 
+2017-11-15 17:56:50,392 INFO  [Logfile] Mouse hovering with click is not working at elementxpath://*[@id='ctl00_topMegaMenu_deskTopMenu']/div/ul/li[1]/div/ul/li/ul/li[1]/a 
+2017-11-15 17:56:50,680 INFO  [Logfile] unAble to fetch the valuexpath://*[@id='ctl00_Body_becomeMeberTypeContainer']/div/div[1]/div/div[2]/div[2]/strong 
+2017-11-15 17:56:51,066 INFO  [Logfile] clickfunction is not working at the elemantName:ctl00$Body$btnJoinAsIndividual 
+2017-11-15 17:56:51,066 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:51,066 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:51,066 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:51,278 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:51,278 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:51,278 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 17:56:51,278 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:51,278 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:51,591 INFO  [Logfile] clickfunction is not working at the elemantxpath://*[@id='ctl00_body_ancCreateAccount'] 
+2017-11-15 17:56:51,887 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$rgUserName 
+2017-11-15 17:56:52,143 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$Email 
+2017-11-15 17:56:52,453 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$rgPassword 
+2017-11-15 17:56:52,733 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$ConfirmPassword 
+2017-11-15 17:56:53,006 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPFirstName 
+2017-11-15 17:56:53,284 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPLastName 
+2017-11-15 17:56:53,631 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPCompany 
+2017-11-15 17:56:53,955 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$tbxNPStreet111111111 
+2017-11-15 17:56:54,261 INFO  [Logfile] textbox function is not working at elementid:ctl00_body_tbxNPCity 
+2017-11-15 17:56:54,593 INFO  [Logfile] Not able to select the element in dropdownsName:ctl00$body$ddlNPCountry 
+2017-11-15 17:56:54,943 INFO  [Logfile] Not able to select the element in dropdownsid:ctl00_body_ddlNPRegion 
+2017-11-15 17:56:55,216 INFO  [Logfile] textbox function is not working at elementName:ctl00$body$txtNPPhone 
+2017-11-15 17:56:55,528 INFO  [Logfile] textbox function is not working at elementid:ctl00_body_tbxNPZip 
+2017-11-15 17:56:55,528 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:55,528 INFO  [Logfile] -------------------------------------- 
+2017-11-15 17:56:55,528 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:06,404 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:06,404 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:06,404 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 18:07:06,404 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:06,404 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:09,457 INFO  [Logfile] Browser name correct 
+2017-11-15 18:07:12,738 INFO  [Logfile] website is correct 
+2017-11-15 18:07:12,870 INFO  [Logfile] Mouse hovering without click is working at elementmainMenu_LocatorValue 
+2017-11-15 18:07:15,592 INFO  [Logfile] Mouse hovering with click is working at elementsubMenu_LocatorValue 
+2017-11-15 18:07:17,397 INFO  [Logfile] Able to fetch the valuefetchMember_LocatorValue 
+2017-11-15 18:07:24,289 INFO  [Logfile] clickfunction is working at the elemantindividual_LocatorValue 
+2017-11-15 18:07:24,289 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:24,289 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:24,289 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:24,565 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:24,565 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:24,565 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 18:07:24,565 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:24,565 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:28,965 INFO  [Logfile] clickfunction is working at the elemantcreateAccount_LocatorValue 
+2017-11-15 18:07:29,169 INFO  [Logfile] textbox function is working at elementuserName_LocatorValue 
+2017-11-15 18:07:29,461 INFO  [Logfile] textbox function is working at elementemail_LocatorValue 
+2017-11-15 18:07:29,611 INFO  [Logfile] textbox function is working at elementpassword_LocatorValue 
+2017-11-15 18:07:29,749 INFO  [Logfile] textbox function is working at elementconfirmPassword_LocatorValue 
+2017-11-15 18:07:29,937 INFO  [Logfile] textbox function is working at elementfirstName_LocatorValue 
+2017-11-15 18:07:30,430 INFO  [Logfile] textbox function is not working at elementlastName_LocatorValue 
+2017-11-15 18:07:30,558 INFO  [Logfile] textbox function is working at elementcompanyName_LocatorValue 
+2017-11-15 18:07:30,935 INFO  [Logfile] textbox function is not working at elementstreetName_LocatorValue 
+2017-11-15 18:07:31,151 INFO  [Logfile] textbox function is working at elementcityName_LocatorValue 
+2017-11-15 18:07:31,235 INFO  [Logfile] able to select the element in dropdownscountryName_LocatorValue 
+2017-11-15 18:07:31,355 INFO  [Logfile] able to select the element in dropdownsstateName_LocatorValue 
+2017-11-15 18:07:31,527 INFO  [Logfile] textbox function is working at elementphone_LocatorValue 
+2017-11-15 18:07:31,635 INFO  [Logfile] textbox function is working at elementzipCode_LocatorValue 
+2017-11-15 18:07:31,635 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:31,635 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:07:31,635 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:09:44,625 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:09:44,629 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:09:44,629 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 18:09:44,629 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:09:44,629 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:09:47,761 INFO  [Logfile] Browser name correct 
+2017-11-15 18:09:50,906 INFO  [Logfile] website is correct 
+2017-11-15 18:09:51,014 INFO  [Logfile] Mouse hovering without click is working at elementmainMenu_LocatorValue 
+2017-11-15 18:09:54,402 INFO  [Logfile] Mouse hovering with click is working at elementsubMenu_LocatorValue 
+2017-11-15 18:09:55,590 INFO  [Logfile] Able to fetch the valuefetchMember_LocatorValue 
+2017-11-15 18:10:01,418 INFO  [Logfile] clickfunction is working at the elemantindividual_LocatorValue 
+2017-11-15 18:10:01,418 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:01,418 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:01,418 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:01,602 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:01,602 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:01,602 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 18:10:01,602 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:01,602 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:06,070 INFO  [Logfile] clickfunction is working at the elemantcreateAccount_LocatorValue 
+2017-11-15 18:10:06,403 INFO  [Logfile] textbox function is working at elementuserName_LocatorValue 
+2017-11-15 18:10:06,691 INFO  [Logfile] textbox function is working at elementemail_LocatorValue 
+2017-11-15 18:10:06,842 INFO  [Logfile] textbox function is working at elementpassword_LocatorValue 
+2017-11-15 18:10:06,983 INFO  [Logfile] textbox function is working at elementconfirmPassword_LocatorValue 
+2017-11-15 18:10:07,135 INFO  [Logfile] textbox function is working at elementfirstName_LocatorValue 
+2017-11-15 18:10:07,603 INFO  [Logfile] textbox function is not working at elementlastName_LocatorValue 
+2017-11-15 18:10:07,735 INFO  [Logfile] textbox function is working at elementcompanyName_LocatorValue 
+2017-11-15 18:10:08,091 INFO  [Logfile] textbox function is not working at elementstreetName_LocatorValue 
+2017-11-15 18:10:08,327 INFO  [Logfile] textbox function is working at elementcityName_LocatorValue 
+2017-11-15 18:10:08,427 INFO  [Logfile] able to select the element in dropdownscountryName_LocatorValue 
+2017-11-15 18:10:08,555 INFO  [Logfile] able to select the element in dropdownsstateName_LocatorValue 
+2017-11-15 18:10:08,735 INFO  [Logfile] textbox function is working at elementphone_LocatorValue 
+2017-11-15 18:10:08,844 INFO  [Logfile] textbox function is working at elementzipCode_LocatorValue 
+2017-11-15 18:10:08,844 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:08,844 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:10:08,845 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:11,243 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:11,243 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:11,243 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 18:17:11,243 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:11,243 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:14,411 INFO  [Logfile] Browser name correct 
+2017-11-15 18:17:17,504 INFO  [Logfile] website is correct 
+2017-11-15 18:17:17,657 INFO  [Logfile] Mouse hovering without click is working at elementmainMenu_LocatorValue 
+2017-11-15 18:17:19,909 INFO  [Logfile] Mouse hovering with click is working at elementsubMenu_LocatorValue 
+2017-11-15 18:17:21,764 INFO  [Logfile] Able to fetch the valuefetchMember_LocatorValue 
+2017-11-15 18:17:28,465 INFO  [Logfile] clickfunction is working at the elemantindividual_LocatorValue 
+2017-11-15 18:17:28,465 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:28,465 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:28,465 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:28,781 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:28,781 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:28,781 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 18:17:28,781 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:28,781 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:33,412 INFO  [Logfile] clickfunction is working at the elemantcreateAccount_LocatorValue 
+2017-11-15 18:17:33,729 INFO  [Logfile] textbox function is working at elementuserName_LocatorValue 
+2017-11-15 18:17:34,109 INFO  [Logfile] textbox function is working at elementemail_LocatorValue 
+2017-11-15 18:17:34,257 INFO  [Logfile] textbox function is working at elementpassword_LocatorValue 
+2017-11-15 18:17:34,405 INFO  [Logfile] textbox function is working at elementconfirmPassword_LocatorValue 
+2017-11-15 18:17:34,562 INFO  [Logfile] textbox function is working at elementfirstName_LocatorValue 
+2017-11-15 18:17:34,998 ERROR [Logfile] textbox function is not working at elementlastName_LocatorValue 
+2017-11-15 18:17:35,150 INFO  [Logfile] textbox function is working at elementcompanyName_LocatorValue 
+2017-11-15 18:17:35,511 ERROR [Logfile] textbox function is not working at elementstreetName_LocatorValue 
+2017-11-15 18:17:35,679 INFO  [Logfile] textbox function is working at elementcityName_LocatorValue 
+2017-11-15 18:17:35,780 INFO  [Logfile] able to select the element in dropdownscountryName_LocatorValue 
+2017-11-15 18:17:35,952 INFO  [Logfile] able to select the element in dropdownsstateName_LocatorValue 
+2017-11-15 18:17:36,145 INFO  [Logfile] textbox function is working at elementphone_LocatorValue 
+2017-11-15 18:17:36,251 INFO  [Logfile] textbox function is working at elementzipCode_LocatorValue 
+2017-11-15 18:17:36,252 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:36,252 INFO  [Logfile] -------------------------------------- 
+2017-11-15 18:17:36,252 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:01:53,761 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:01:53,765 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:01:53,765 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 21:01:53,765 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:01:53,765 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:01:56,914 INFO  [Logfile] Browser name correct 
+2017-11-15 21:01:59,793 INFO  [Logfile] website is correct 
+2017-11-15 21:01:59,889 INFO  [Logfile] Mouse hovering without click is working at elementmainMenu_LocatorValue 
+2017-11-15 21:02:02,791 INFO  [Logfile] Mouse hovering with click is working at elementsubMenu_LocatorValue 
+2017-11-15 21:02:05,658 INFO  [Logfile] Able to fetch the valuefetchMember_LocatorValue 
+2017-11-15 21:02:11,184 INFO  [Logfile] clickfunction is working at the elemantindividual_LocatorValue 
+2017-11-15 21:02:11,184 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:11,184 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:11,184 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:11,460 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:11,460 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:11,460 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 21:02:11,460 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:11,460 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:17,390 INFO  [Logfile] clickfunction is working at the elemantcreateAccount_LocatorValue 
+2017-11-15 21:02:17,747 INFO  [Logfile] textbox function is working at elementuserName_LocatorValue 
+2017-11-15 21:02:18,083 INFO  [Logfile] textbox function is working at elementemail_LocatorValue 
+2017-11-15 21:02:18,231 INFO  [Logfile] textbox function is working at elementpassword_LocatorValue 
+2017-11-15 21:02:18,387 INFO  [Logfile] textbox function is working at elementconfirmPassword_LocatorValue 
+2017-11-15 21:02:18,526 INFO  [Logfile] textbox function is working at elementfirstName_LocatorValue 
+2017-11-15 21:02:18,925 ERROR [Logfile] textbox function is not working at elementlastName_LocatorValue 
+2017-11-15 21:02:19,060 INFO  [Logfile] textbox function is working at elementcompanyName_LocatorValue 
+2017-11-15 21:02:19,440 ERROR [Logfile] textbox function is not working at elementstreetName_LocatorValue 
+2017-11-15 21:02:19,636 INFO  [Logfile] textbox function is working at elementcityName_LocatorValue 
+2017-11-15 21:02:19,761 INFO  [Logfile] able to select the element in dropdownscountryName_LocatorValue 
+2017-11-15 21:02:19,937 INFO  [Logfile] able to select the element in dropdownsstateName_LocatorValue 
+2017-11-15 21:02:20,130 INFO  [Logfile] textbox function is working at elementphone_LocatorValue 
+2017-11-15 21:02:20,245 INFO  [Logfile] textbox function is working at elementzipCode_LocatorValue 
+2017-11-15 21:02:20,245 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:20,245 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:02:20,245 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:25:41,064 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:25:41,064 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:25:41,065 INFO  [Logfile] -----------TC001-------------- 
+2017-11-15 21:25:41,065 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:25:41,065 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:25:44,192 INFO  [Logfile] Browser name correct 
+2017-11-15 21:25:51,449 INFO  [Logfile] website is correct 
+2017-11-15 21:25:51,555 INFO  [Logfile] Mouse hovering without click is working at elementmainMenu_LocatorValue 
+2017-11-15 21:25:53,974 INFO  [Logfile] Mouse hovering with click is working at elementsubMenu_LocatorValue 
+2017-11-15 21:25:56,191 INFO  [Logfile] Able to fetch the valuefetchMember_LocatorValue 
+2017-11-15 21:26:03,060 INFO  [Logfile] clickfunction is working at the elemantindividual_LocatorValue 
+2017-11-15 21:26:03,060 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:03,060 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:03,060 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:03,385 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:03,386 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:03,386 INFO  [Logfile] -----------TC002-------------- 
+2017-11-15 21:26:03,386 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:03,386 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:12,040 INFO  [Logfile] clickfunction is working at the elemantcreateAccount_LocatorValue 
+2017-11-15 21:26:12,367 INFO  [Logfile] textbox function is working at elementuserName_LocatorValue 
+2017-11-15 21:26:12,785 INFO  [Logfile] textbox function is working at elementemail_LocatorValue 
+2017-11-15 21:26:12,958 INFO  [Logfile] textbox function is working at elementpassword_LocatorValue 
+2017-11-15 21:26:13,106 INFO  [Logfile] textbox function is working at elementconfirmPassword_LocatorValue 
+2017-11-15 21:26:13,248 INFO  [Logfile] textbox function is working at elementfirstName_LocatorValue 
+2017-11-15 21:26:13,670 ERROR [Logfile] textbox function is not working at elementlastName_LocatorValue 
+2017-11-15 21:26:13,812 INFO  [Logfile] textbox function is working at elementcompanyName_LocatorValue 
+2017-11-15 21:26:14,191 ERROR [Logfile] textbox function is not working at elementstreetName_LocatorValue 
+2017-11-15 21:26:14,372 INFO  [Logfile] textbox function is working at elementcityName_LocatorValue 
+2017-11-15 21:26:14,491 INFO  [Logfile] able to select the element in dropdownscountryName_LocatorValue 
+2017-11-15 21:26:14,672 INFO  [Logfile] able to select the element in dropdownsstateName_LocatorValue 
+2017-11-15 21:26:14,855 INFO  [Logfile] textbox function is working at elementphone_LocatorValue 
+2017-11-15 21:26:14,971 INFO  [Logfile] textbox function is working at elementzipCode_LocatorValue 
+2017-11-15 21:26:14,971 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:14,971 INFO  [Logfile] -------------------------------------- 
+2017-11-15 21:26:14,971 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:37,986 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:37,987 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:37,987 INFO  [Logfile] -----------TC001-------------- 
+2017-11-16 09:03:37,987 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:37,987 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:40,995 INFO  [Logfile] Browser name correct 
+2017-11-16 09:03:44,424 INFO  [Logfile] website is correct 
+2017-11-16 09:03:44,603 INFO  [Logfile] Mouse hovering without click is working at elementmainMenu_LocatorValue 
+2017-11-16 09:03:48,243 INFO  [Logfile] Mouse hovering with click is working at elementsubMenu_LocatorValue 
+2017-11-16 09:03:48,464 INFO  [Logfile] Able to fetch the valuefetchMember_LocatorValue 
+2017-11-16 09:03:54,296 INFO  [Logfile] clickfunction is working at the elemantindividual_LocatorValue 
+2017-11-16 09:03:54,297 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:54,297 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:54,297 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:54,584 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:54,584 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:54,585 INFO  [Logfile] -----------TC002-------------- 
+2017-11-16 09:03:54,585 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:54,585 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:03:58,602 INFO  [Logfile] clickfunction is working at the elemantcreateAccount_LocatorValue 
+2017-11-16 09:03:58,844 INFO  [Logfile] textbox function is working at elementuserName_LocatorValue 
+2017-11-16 09:03:59,147 INFO  [Logfile] textbox function is working at elementemail_LocatorValue 
+2017-11-16 09:03:59,308 INFO  [Logfile] textbox function is working at elementpassword_LocatorValue 
+2017-11-16 09:03:59,453 INFO  [Logfile] textbox function is working at elementconfirmPassword_LocatorValue 
+2017-11-16 09:03:59,593 INFO  [Logfile] textbox function is working at elementfirstName_LocatorValue 
+2017-11-16 09:03:59,922 ERROR [Logfile] textbox function is not working at elementlastName_LocatorValue 
+2017-11-16 09:04:00,058 INFO  [Logfile] textbox function is working at elementcompanyName_LocatorValue 
+2017-11-16 09:04:00,415 ERROR [Logfile] textbox function is not working at elementstreetName_LocatorValue 
+2017-11-16 09:04:00,590 INFO  [Logfile] textbox function is working at elementcityName_LocatorValue 
+2017-11-16 09:04:00,673 INFO  [Logfile] able to select the element in dropdownscountryName_LocatorValue 
+2017-11-16 09:04:00,796 INFO  [Logfile] able to select the element in dropdownsstateName_LocatorValue 
+2017-11-16 09:04:00,974 INFO  [Logfile] textbox function is working at elementphone_LocatorValue 
+2017-11-16 09:04:01,097 INFO  [Logfile] textbox function is working at elementzipCode_LocatorValue 
+2017-11-16 09:04:01,097 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:04:01,098 INFO  [Logfile] -------------------------------------- 
+2017-11-16 09:04:01,098 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:44:58,169 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:44:58,170 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:44:58,170 INFO  [Logfile] -----------TC001-------------- 
+2017-11-17 08:44:58,170 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:44:58,170 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:02,438 INFO  [Logfile] Browser name correct 
+2017-11-17 08:45:05,974 INFO  [Logfile] website is correct 
+2017-11-17 08:45:06,099 INFO  [Logfile] Mouse hovering without click is working at elementmainMenu_LocatorValue 
+2017-11-17 08:45:08,313 INFO  [Logfile] Mouse hovering with click is working at elementsubMenu_LocatorValue 
+2017-11-17 08:45:10,096 INFO  [Logfile] Able to fetch the valuefetchMember_LocatorValue 
+2017-11-17 08:45:15,345 INFO  [Logfile] clickfunction is working at the elemantindividual_LocatorValue 
+2017-11-17 08:45:15,345 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:15,345 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:15,345 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:15,682 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:15,682 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:15,682 INFO  [Logfile] -----------TC002-------------- 
+2017-11-17 08:45:15,683 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:15,683 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:21,077 INFO  [Logfile] clickfunction is working at the elemantcreateAccount_LocatorValue 
+2017-11-17 08:45:21,306 INFO  [Logfile] textbox function is working at elementuserName_LocatorValue 
+2017-11-17 08:45:21,759 INFO  [Logfile] textbox function is working at elementemail_LocatorValue 
+2017-11-17 08:45:21,963 INFO  [Logfile] textbox function is working at elementpassword_LocatorValue 
+2017-11-17 08:45:22,158 INFO  [Logfile] textbox function is working at elementconfirmPassword_LocatorValue 
+2017-11-17 08:45:22,344 INFO  [Logfile] textbox function is working at elementfirstName_LocatorValue 
+2017-11-17 08:45:22,710 ERROR [Logfile] textbox function is not working at elementlastName_LocatorValue 
+2017-11-17 08:45:22,901 INFO  [Logfile] textbox function is working at elementcompanyName_LocatorValue 
+2017-11-17 08:45:23,213 ERROR [Logfile] textbox function is not working at elementstreetName_LocatorValue 
+2017-11-17 08:45:23,444 INFO  [Logfile] textbox function is working at elementcityName_LocatorValue 
+2017-11-17 08:45:23,552 INFO  [Logfile] able to select the element in dropdownscountryName_LocatorValue 
+2017-11-17 08:45:23,723 INFO  [Logfile] able to select the element in dropdownsstateName_LocatorValue 
+2017-11-17 08:45:23,966 INFO  [Logfile] textbox function is working at elementphone_LocatorValue 
+2017-11-17 08:45:24,121 INFO  [Logfile] textbox function is working at elementzipCode_LocatorValue 
+2017-11-17 08:45:24,121 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:24,121 INFO  [Logfile] -------------------------------------- 
+2017-11-17 08:45:24,121 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:34,886 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:34,886 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:34,886 INFO  [Logfile] -----------TC001-------------- 
+2017-11-23 15:04:34,886 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:34,886 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:37,991 INFO  [Logfile] Browser name correct 
+2017-11-23 15:04:45,633 INFO  [Logfile] website is correct 
+2017-11-23 15:04:45,810 INFO  [Logfile] Mouse hovering without click is working at elementmainMenu_LocatorValue 
+2017-11-23 15:04:50,333 INFO  [Logfile] Mouse hovering with click is working at elementsubMenu_LocatorValue 
+2017-11-23 15:04:50,984 INFO  [Logfile] Able to fetch the valuefetchMember_LocatorValue 
+2017-11-23 15:04:58,609 INFO  [Logfile] clickfunction is working at the elemantindividual_LocatorValue 
+2017-11-23 15:04:58,609 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:58,609 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:58,609 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:58,915 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:58,915 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:58,915 INFO  [Logfile] -----------TC002-------------- 
+2017-11-23 15:04:58,915 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:04:58,915 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:05:03,102 INFO  [Logfile] clickfunction is working at the elemantcreateAccount_LocatorValue 
+2017-11-23 15:05:03,439 ERROR [Logfile] textbox function is not working at elementuserName_LocatorValue 
+2017-11-23 15:05:03,763 ERROR [Logfile] textbox function is not working at elementemail_LocatorValue 
+2017-11-23 15:05:04,059 ERROR [Logfile] textbox function is not working at elementpassword_LocatorValue 
+2017-11-23 15:05:04,363 ERROR [Logfile] textbox function is not working at elementconfirmPassword_LocatorValue 
+2017-11-23 15:05:04,651 ERROR [Logfile] textbox function is not working at elementfirstName_LocatorValue 
+2017-11-23 15:05:05,068 ERROR [Logfile] textbox function is not working at elementlastName_LocatorValue 
+2017-11-23 15:05:05,421 ERROR [Logfile] textbox function is not working at elementcompanyName_LocatorValue 
+2017-11-23 15:05:05,728 ERROR [Logfile] textbox function is not working at elementstreetName_LocatorValue 
+2017-11-23 15:05:06,026 ERROR [Logfile] textbox function is not working at elementcityName_LocatorValue 
+2017-11-23 15:05:06,372 ERROR [Logfile] Not able to select the element in dropdownscountryName_LocatorValue 
+2017-11-23 15:05:06,690 ERROR [Logfile] Not able to select the element in dropdownsstateName_LocatorValue 
+2017-11-23 15:05:06,990 ERROR [Logfile] textbox function is not working at elementphone_LocatorValue 
+2017-11-23 15:05:07,323 ERROR [Logfile] textbox function is not working at elementzipCode_LocatorValue 
+2017-11-23 15:05:07,323 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:05:07,323 INFO  [Logfile] -------------------------------------- 
+2017-11-23 15:05:07,323 INFO  [Logfile] -------------------------------------- 

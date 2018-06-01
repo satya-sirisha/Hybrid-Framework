@@ -1,0 +1,50 @@
+package Constructor;
+
+public class Programe1 {
+
+	public static void main(String[] args) {
+		
+		Programe2 obj = new Programe2();
+	      System.out.println(obj.x);
+	     
+	      
+	     Programe2 obj1 = new Programe2(3.24f); 
+	      System.out.println(obj1.y);
+	
+	     
+	      Programe2 obj2 = new Programe2("shanvi"); 
+	      System.out.println(obj2.z);
+	}
+	
+	
+
+}
+
+
+
+package Constructor;
+
+public class Programe2 {
+	
+    int x;
+	float y ;
+	String z;
+	public Programe2() //default constructor(no parameter/no argument)
+	{
+		x=10;
+	
+	}
+	
+	public Programe2(float i) //parameterized constructor
+	{
+		y=i;
+		
+	}
+	public Programe2(String j) //parameterized constructor
+	{
+		//z=j;
+	}
+
+}
+
+
